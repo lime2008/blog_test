@@ -186,6 +186,13 @@ const links = [
         brief:'你所热爱的就是你的生活',
         url:'https://codekpy.cloudroo.top/'
     },
+    {
+        image:'https://q1.qlogo.cn/g?b=qq&nk=286267038&s=100',
+        name:'ohhhfish',
+        brief:'Stay passionate, stay curious',
+        url:'https://www.ohfish.top/'
+    },
+
 ];
 
 const style = {
