@@ -193,6 +193,34 @@ const links = [
         url:'https://www.ohfish.top/'
     },
 
+    {
+        image: 'https://static.codemao.cn/flowchunkflex/BJn-7g-Dll.png',
+        name: '寻何',
+        brief:'何夜无月？何处无竹柏？但少闲人如吾两人者耳',
+        url:'https://xunho.xyz/'
+    },
+    
+        {
+        image: 'https://static.codemao.cn/flowchunkflex/BJn-7g-Dll.png',
+        name: '寻何',
+        brief:'何夜无月？何处无竹柏？但少闲人如吾两人者耳',
+        url:'https://xunho.xyz/'
+    },
+
+    {
+        image: 'https://static.codemao.cn/pickduck/rywdZWywgg.svg?hash=Flk2MqD-_CFQoODua1yTut8wZiAQ',
+        name: '酶游明',
+        brief:' 一个写代码的初二学生',
+        url:'https://www.enzymeym.top/'
+    },
+
+        {
+        image:'https://q1.qlogo.cn/g?b=qq&nk=3492416851&s=100',
+        name:'Lzx\'s Blog',
+        brief:'凡是过往,皆为序章.',
+        url:'https://www.lzwxx.top/'
+    },
+
 ];
 
 const style = {

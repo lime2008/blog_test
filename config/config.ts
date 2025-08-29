@@ -8,8 +8,8 @@ export const SITE: Site = {
   website: "https://lokria.top/",
   author: "LOKRIA",
   avatar : avatar,
-  desc: "珞佳的温暖小窝，记录着生活中琐碎小事.",
-  title: "珞佳小窝",
+  desc: "📍江西九江 📚高三牲 🧪理科牲",
+  title: "CALYXOR",
   postPerPage: 5,
 };
 export const STYLE  = {
